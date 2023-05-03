@@ -1,3 +1,10 @@
+## Bug Hunting Game
+[https://devspaces.apps.cluster-kkppj.kkppj.sandbox240.opentlc.com/](https://devspaces.apps.cluster-kkppj.kkppj.sandbox240.opentlc.com/)
+
+Username: user#
+Password: 9TLICvg3N7MxrN5K
+
+
 [![Contribute](https://www.eclipse.org/che/contribute.svg)](https://workspaces.openshift.com/f?url=https://github.com/kyetter/demo/)
 
 # Overview
